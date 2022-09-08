@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="Coder" width="400" height="250" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder" width="400" height="250" />
 </div>
 <br/>
 
