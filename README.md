@@ -15,7 +15,8 @@
 
 - ✒️ I have knowledge of python language, javascript, sql and currently learning more about the NodeJs.
 
-- 📫 You can reach me at: Linkedin - (https://www.linkedin.com/in/leonardo-oliveira-melo-287593164/)
+- 📫 You can reach me at: 
+      Linkedin - (https://www.linkedin.com/in/leonardo-oliveira-287593164/)
 
 
 
