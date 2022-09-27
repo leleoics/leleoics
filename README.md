@@ -6,8 +6,9 @@
 <h1 align="center">Hi, I'm Leonardo Oliveira</h1>
 <h3 align="center">I'm a Management and control analyst and full stack web development student, enthusiastic about new technologies.</h3>
 
+<br/>
 
-## 🤪 About Me
+## About Me
 
 - I'm @leleoics, my areas of interest are technology oriented, mainly related to geodetic sciences. 
 
@@ -15,10 +16,10 @@
 
 - ✒️ I have knowledge of python language, javascript, sql and currently learning more about the NodeJs.
 
-- 📫 You can reach me at: 
-      Linkedin - (https://www.linkedin.com/in/leonardo-oliveira-287593164/)
+<!-- - 📫 You can reach me at: 
+      Linkedin - (https://www.linkedin.com/in/leonardo-oliveira-287593164/) -->
 
-
+<br/>
 
 <!-- ## 🎈 Languages and Tools:
 
@@ -34,7 +35,7 @@
 <br/> -->
 
 
-## 💹 My Github Stats
+## My Github Stats
 
   <br/>
     <a href="https://github.com/Lazaro1/github-readme-stats" align='left'><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leleoics&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -46,10 +47,9 @@
 
 <br/>
 
-## Connect with me:
+## You can reach me:
 
 <p align="center">
 
-<a href = "https://www.linkedin.com/in/leonardo-oliveira-287593164/" width=60px><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/leleoics/" width=60px><img src="https://img.icons8.com/fluency/344/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/leonardo-oliveira-287593164/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
