@@ -20,7 +20,7 @@
 
 
 
-## 🎈 Languages and Tools:
+<!-- ## 🎈 Languages and Tools:
 
 <p align="left">
     <a href="https://www.w3.org/python/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
@@ -31,14 +31,14 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     
 </p>
-<br/>
+<br/> -->
 
 
 ## 💹 My Github Stats
 
   <br/>
-    <a href="https://github.com/Lazaro1/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leleoics&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Lazaro1/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leleoics&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Lazaro1/github-readme-stats" align='left'><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leleoics&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Lazaro1/github-readme-stats" align='right'><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leleoics&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
@@ -50,6 +50,6 @@
 
 <p align="center">
 
-<a href = "https://www.linkedin.com/in/leonardo-oliveira-287593164/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/leleoics/"><img src="https://img.icons8.com/fluency/344/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/leonardo-oliveira-287593164/" width=60px><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/leleoics/" width=60px><img src="https://img.icons8.com/fluency/344/instagram-new.png"/></a>
 </p>
